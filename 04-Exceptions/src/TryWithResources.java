@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class TryWithResourcesAutoClosingResources {
+public class TryWithResources {
 
     public static void main(String[] args) {
         // File path for the "info.txt" file
